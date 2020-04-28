@@ -1,2 +1,4 @@
 name: ELham E Khoda
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
